@@ -14,6 +14,8 @@ Kaggle : https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-datase
 https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment 
 there is other websites ....
+
+
 The goal is to enable training and evaluation of multi-class sentiment analysis models for real-world text data. The dataset is already preprocessed — lowercase, cleaned from punctuation, URLs, numbers, and stopwords — and is ready for NLP pipelines.
 📊 Columns
 Column	Description
